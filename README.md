@@ -9,7 +9,7 @@ heislertecreator/heislertecreator is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # spring-cloud-config-consumer
-The project loosely conforms to the project produced by Krish in the video for Microservices In & Out [006] on YouTube via:
+This project loosely conforms to the project produced by Krish in the video for Microservices In & Out [006] on YouTube via:
 
 <a href="https://www.youtube.com/watch?v=GqV7Z7FX3q0">https://www.youtube.com/watch?v=GqV7Z7FX3q0</a>
 
