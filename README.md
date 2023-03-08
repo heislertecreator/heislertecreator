@@ -29,7 +29,8 @@ People should be educated in the use of technology so they can sort their proble
 This project <b>loosely</b> conforms to the project produced by Krish in the video for Microservices In & Out [006] on YouTube via:
 
 <a href="https://www.youtube.com/watch?v=GqV7Z7FX3q0">https://www.youtube.com/watch?v=GqV7Z7FX3q0</a>
-, yet, so far, is <b>100% pure Java ('96)</b> compliant.
+, yet, so far, is <b>100% pure Java ('96)</b> compliant, as far as I am aware. This should not be taken as a guarantee for liability. Use my software at your own risk. Please review the code, in order, that you may fully assess its' capabilities and vulnerabilities. I'm not sure any code is 100% safe.
+
 This video also produces my artifacts, <a href="https://github.com/heislertecreator/spring-cloud-config">spring-cloud-config</a> and <a href="https://github.com/heislertecreator/spring-cloud-config-server">spring-cloud-config-server</a>
 
 My working projects, so far, are on tecreations.ca, in this: <a href="https://tecreations.ca/java/downloads/release/">https://tecreations.ca/java/downloads/release/<a> directory space, or subtree, whichever you prefer.
