@@ -9,6 +9,8 @@
 heislertecreator/heislertecreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+All my code is my own, sourced, in part from articles referenced within the code, where applicable, regardless of the source. Note however, that the "starters", in those cases, has been fundamentally changed to arrive at a, hopefully correct, working product. You are free to change what you must for your software. You might try to construe that as a license, but it doesn't really matter in 70 years. I would not work against you.
+
 # spring-cloud-config-consumer
 This project <b>loosely</b> conforms to the project produced by Krish in the video for Microservices In & Out [006] on YouTube via:
 
