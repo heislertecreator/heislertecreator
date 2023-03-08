@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heislertecreator
 - 👀 I’m interested in current events, computing, multimedia.
 - 🌱 I’m currently learning a variety of things related to software development.
-- 💞️ I have some software and a website. I'd be willing to work.
+- 💞️ I have some software on a website. I'd be willing to work.
 - 📫 How to reach me: mailto://tim@tecreations.ca
 - Apex Domain: <a href="tecreations.ca">https://tecreations.ca/</a>
 
